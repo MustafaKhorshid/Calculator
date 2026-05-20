@@ -17,4 +17,4 @@ No external packages or virtual environments are required to execute this applic
 
 1. Clone this repository to your local system:
    ```bash
-   git clone [https://github.com/MustafaKhorshid/Calculator.git](https://github.com/MustafaKhorshid/Calculator.git)
+   git clone [https://github.com/MustafaKhorshid/Calculator.git]
